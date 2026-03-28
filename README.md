@@ -36,7 +36,8 @@ matrimony_app/
 ## Setup Instructions
 
 ### 1. Clone Repository
-git clone 
+git clone ( https://github.com/aradhanabhoyar/matrimony_app.git )
+
 cd matrimony_app
 
 ### 2. Create Virtual Environment
